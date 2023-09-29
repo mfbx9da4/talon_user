@@ -1,0 +1,15 @@
+[submodule "talon"]
+	path = talon
+	url = ./talon
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = ./cursorless-talon
+[submodule "rango-talon"]
+	path = rango-talon
+	url = ./rango-talon
+[submodule "talon-axkit"]
+	path = talon-axkit
+	url = ./talon-axkit
+[submodule "talon-gaze-ocr"]
+	path = talon-gaze-ocr
+	url = ./talon-gaze-ocr
